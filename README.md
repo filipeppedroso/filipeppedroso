@@ -1,16 +1,29 @@
-## Hi there 👋
+## Filipe Pedroso
 
-<!--
-**filipeppedroso/filipeppedroso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Infrastructure and NOC engineer in Florianópolis, Brazil. Ten years keeping Linux
+boxes, VoIP platforms and carrier networks alive, a fair share of it at 3 a.m.
 
-Here are some ideas to get you started:
+Most of what I build now comes from that shift work: config audits that used to be
+a paper checklist, log triage that used to be twenty terminal tabs, reports that
+used to be copy and paste. Python, small scripts, nothing clever.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I work with
+
+| Area | Tools |
+| --- | --- |
+| Systems | Linux (Debian, Ubuntu, CentOS), Windows Server, Active Directory |
+| Voice | Asterisk, SIP, VoIP provisioning and troubleshooting |
+| Network | Routing and switching, FortiGate, Sophos, packet capture |
+| Monitoring | Zabbix, alert triage, incident response |
+| Automation | Python, Bash, REST APIs |
+
+### Currently
+
+- Technical support analyst at uTech Tecnologia, a Brazilian IP telephony manufacturer
+- Fortinet NSE 1–3 certified
+- Writing small tools for problems I actually hit on shift
+- Open to remote infrastructure and technical support roles
+
+### Elsewhere
+
+[LinkedIn](https://www.linkedin.com/in/filipe-pedroso-ti/)
