@@ -17,6 +17,18 @@ used to be copy and paste. Python, small scripts, nothing clever.
 | Monitoring | Zabbix, alert triage, incident response |
 | Automation | Python, Bash, REST APIs |
 
+### Projects
+
+**[Apurado](https://github.com/filipeppedroso/apurado)** — a weekly earnings tracker
+for ride-hailing drivers. Offline-first PWA in React and TypeScript; every record
+stays on the device, so there is no account and no server.
+[Live app](https://apurado.vercel.app)
+
+**[SC Tour](https://github.com/filipeppedroso/sc-tour-site)** — marketing site for an
+executive transport company. Hand-written HTML, CSS and vanilla JavaScript, no build
+step, with the SEO and schema markup done properly.
+[Live site](https://sctourfloripa.com.br)
+
 ### Currently
 
 - Technical support analyst at uTech Tecnologia, a Brazilian IP telephony manufacturer
